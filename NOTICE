@@ -1,0 +1,11 @@
+crowsi-owner-recovery-provider
+Copyright 2026 HAT Inc.
+Licensed under the Apache License, Version 2.0; see LICENSE.
+
+assets/bip39-english.txt is the unmodified BIP-0039 English word list.
+Upstream: https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
+BIP-0039 authors: Marek Palatinus, Pavol Rusnak, Aaron Voisine, Sean Bowe.
+The word-list reference implementation retains its MIT license in LICENSE-BIP39.
+Word-list SHA-256: 2f5eed53a4727b4bf8880d8f3f199efc90e58503646d9ff8eff3a2ed3b24dbda
+
+Earlier permissions and attribution remain in the accompanying LICENSE-* files.
